@@ -1,0 +1,45 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 numbers together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Have a line for numerical input (such as age =, or number =).
+Use IF statement to verify if the number's value is divisible by 2.
+Use PRINT statement to state that the number is an even number.
+Use ELSEIF statement to verify if the number's value is not divisible by 2.
+Use PRINT statement to state that the number is an odd number.
+  
+ 
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Have a line for numerical input of the 5 separate numbers (numbers = num1, num2, num3, num4, num5).
+
+Use + operator to calculate the sum of the 5 numbers (num1 + num2 + num3 + num4 + num5 = result).
+Use the answer (the sum of the 5 numbers; result) from the previous calculation as the numerator, divided by 5 (denominator):
+	(num1 + num2 + num3 + num4 + num5 / 5 = result) or (type in the sum from addition calculation / 5 = result). 
+After the previous calculation, use a PRINT statement to state the answer (the average of the five numbers):
+	(PRINT RESULT "This is the average of the five numbers.") 
+
+Use IF statements to calculate the minimum and maximum of the five entered numbers:
+	For example, if numerical value is <= smallest number listed (entered in line 1), then that number is the minimum number.
+	If numerical value is >= largest number listed (entered in line 1), then that number is the maximum number. 
+After each IF statement, use PRINT statements to describe whether the number is the minimum or the maximum number:
+	(PRINT MINIMUM "This is the minimum number.") and (PRINT MAXIMUM "This is the maximum number.") 
+
+
+-- END --
